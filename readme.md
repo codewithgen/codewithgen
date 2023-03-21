@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Genesis
 #### Front-End Developer / Creative
-![Front-End Developer / Creative](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front-End Developer / Creative]()
 
 On my way, to becoming a Front-End Developer. Arts lover, passionate about science and technology. 
 
