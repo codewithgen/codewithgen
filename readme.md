@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Genesis</h1>
 <h3 align="center">A passionate frontend developer from small island of Puerto Rico🇵🇷</h3>
 
-!<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUzMWI0ZmY2OGFkMTA3ZGYyNzk2YWRkNzkzZjY4ZGVkNGEwNjIxOSZjdD1n/kRsswKHySz35ie5wCG/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUzMWI0ZmY2OGFkMTA3ZGYyNzk2YWRkNzkzZjY4ZGVkNGEwNjIxOSZjdD1n/kRsswKHySz35ie5wCG/giphy-downsized.gif)](https://media.giphy.com/media/l0K4lUxBzIOeJd1EA/giphy.gif)">
+!<img src="https://media.giphy.com/media/6dKRKMubZffyg/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithgen" alt="codewithgen" /></a> </p>
 
