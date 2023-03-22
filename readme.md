@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **genesis.augusto@yahoo.com**
 
-- ⚡ Fun fact: **I am passionate about psychology and any form of art.**
+- ⚡ Fun fact: **I'm obssesed with space and don't like cats.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
