@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/kRsswKHySz35ie5wCG/giphy-downsized.gif" width="100%" height="300px" align="center">
 
-<p> A small girl in a BIG tech world. Favor the **arts, philosophy, psychology, multi-verse, and some weights.**</p>
+<p> A small girl in a BIG tech world. Favor the <strong>arts, philosophy, psychology, multi-verse, and some weights.</strong></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithgen" alt="codewithgen" /></a> </p>
 
