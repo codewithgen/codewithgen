@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/kRsswKHySz35ie5wCG/giphy-downsized.gif" width="100%" height="300px" align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithgen" alt="codewithgen" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithgen" alt="codewithgen" /></a> </p>
 
 - 🔭 I’m currently working on **Product Preview**
 
